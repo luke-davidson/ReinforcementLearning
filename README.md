@@ -1,4 +1,4 @@
-# CS 5180 - Reinforcement Learning
+# Reinforcement Learning
 This repo holds all programming assignments completed for my Reinforcement Learning course (Fall 2022).
 
 ***Note:*** Scaffolding code was given for some of these assignments. All of my work is located inside block comments labeled `##### MY WORK START #####` and `##### MY WORK END #####`.
